@@ -1,0 +1,7 @@
+body{background-color: aqua}
+h1{color: fuchsia}
+table{border: royalblue 2px solid;
+    padding: 10px;
+    width: 80%;
+    border-collapse: collapse;
+}
